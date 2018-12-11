@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Data PUBLIC "SYSTEM" "Data.dtd">
+<Data>
+<Airport x="1100" ID="Berlin" SIZE="55" y="320"></Airport><Airport ID="Hamburg" x="640" y="100" SIZE="50">
+
+</Airport>
+	<Airport x="480" ID="Frankfurt" SIZE="60" y="500"></Airport>
+	<Airport x="720" ID="München" SIZE="55" y="880"></Airport>
+	<Airport x="100" ID="Düsseldorf" SIZE="55" y="400"></Airport>
+</Data>
